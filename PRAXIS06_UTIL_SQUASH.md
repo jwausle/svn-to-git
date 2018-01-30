@@ -17,6 +17,14 @@ Squash take a set of commits and collect these to 1 commit (== sqaushing).
 # git log      # 2 commits in history
 # git rebase -i HEAD~3
 # git log      # 1 commit in history
+
+-----------------------------------
+
+# git reset --hard BEFORE_ANOTHER_FILE
+
+# touch another.file
+# git add another.file
+# git commit -m"--amend" --amend
 ```
 
 ## Squash command list with output
