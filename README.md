@@ -2,6 +2,8 @@
 
 The practical part is spitted into several units.
 
+Slides: https://de.slideshare.net/jwausle/svn-togit 
+
 ## Units
 
 - [Command line](./PRAXIS00_CLI.md)
@@ -12,6 +14,7 @@ The practical part is spitted into several units.
 - [Fork](./PRAXIS05_FORK.md)
 - [Squashing](./PRAXIS06_UTIL_SQUASH.md)
 - [Stashing](./PRAXIS07_UTIL_STASH.md)
+- [Conflicts](./PRAXIS08_UTIL_CONFLICT.md)
 
 ## Unit working flow
 
