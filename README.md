@@ -2,8 +2,6 @@
 
 The practical part is spitted into several units.
 
-Slides: https://de.slideshare.net/jwausle/svn-togit 
-
 ## Units
 
 - [Command line](./PRAXIS00_CLI.md)
