@@ -1,0 +1,9 @@
+job1:
+  tags: 
+   - shell
+  script: 
+   - env
+   - echo "PATH=$PATH"
+   - javac -version
+   - java -version
+   - mvn clean package | grep -v 'Progress '
