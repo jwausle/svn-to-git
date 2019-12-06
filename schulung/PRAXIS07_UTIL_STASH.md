@@ -2,6 +2,8 @@
 
 Stash is a local utility to cache local uncommited and untracked changes for a later use. Typical use-case: I want to switch the branch for a code review from a Pull-Request.
 
+Scripts: `praxis-7-stash.sh`
+
 ## Stash command list
 
 ```

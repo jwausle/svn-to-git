@@ -1,5 +1,6 @@
 # Praxis 5 fork
 
+Scripts: `praxis-5.sh`
 
 ## Fork command list
 

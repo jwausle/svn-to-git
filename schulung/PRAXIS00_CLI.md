@@ -1,5 +1,7 @@
 # GIT command line
 
+Scripts: `praxis-0-add.sh`, `praxis-0-branch.sh`, `praxis-0-graph.sh`
+
 - [GIT command help](#help)
 - [INIT and CLONE a repository](#repo)
 - [ADD, MV, RM, RESET and COMMIT files in present branch](#files)

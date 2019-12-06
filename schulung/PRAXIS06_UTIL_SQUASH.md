@@ -2,6 +2,8 @@
 
 Squash take a set of commits and collect these to 1 commit (== sqaushing).
 
+Scripts: `praxis-6-squash.sh`
+
 ## Squash command list
 
 ```

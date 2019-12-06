@@ -2,6 +2,8 @@
 
 Create a Your feature branch from master and do some changes there. To merge the changes create a Pull-Request on bitbucket web-ui and ask colleagues for comments and merging.
 
+Scripts: `praxis-2-feature.sh`, `praxis-2-gitflow.sh`
+
 # Praxis 2 command list
 
 ```

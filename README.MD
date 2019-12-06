@@ -2,17 +2,19 @@
 
 The practical part is spitted into several units.
 
+- [Slides](https://docs.google.com/presentation/d/1FQ1iOAqmDUwzEQRlYtpFY1bO9IpOgembRfRZ6hCK0-A/edit?usp=sharing)
+
 ## Units
 
-- [Command line](./PRAXIS00_CLI.md)
-- [Pull Request for feature/branch](./PRAXIS01_FEATURE_BRANCH.md)
-- [Gitflow feature/branch](./PRAXIS02_GITFLOW_FEATURE_BRANCH.md)
-- [Gitflow release](./PRAXIS03_GITFLOW_RELEASE.md)
-- [Gitflow hotfix](./PRAXIS04_GITFLOW_HOTFIX.md)
-- [Fork](./PRAXIS05_FORK.md)
-- [Squashing](./PRAXIS06_UTIL_SQUASH.md)
-- [Stashing](./PRAXIS07_UTIL_STASH.md)
-- [Conflicts](./PRAXIS08_UTIL_CONFLICT.md)
+- [Command line](./schulung/PRAXIS00_CLI.md)
+- [Pull Request for feature/branch](./schulung/PRAXIS01_FEATURE_BRANCH.md)
+- [Gitflow feature/branch](./schulung/PRAXIS02_GITFLOW_FEATURE_BRANCH.md)
+- [Gitflow release](./schulung/PRAXIS03_GITFLOW_RELEASE.md)
+- [Gitflow hotfix](./schulung/PRAXIS04_GITFLOW_HOTFIX.md)
+- [Fork](./schulung/PRAXIS05_FORK.md)
+- [Squashing](./schulung/PRAXIS06_UTIL_SQUASH.md)
+- [Stashing](./schulung/PRAXIS07_UTIL_STASH.md)
+- [Conflicts](./schulung/PRAXIS08_UTIL_CONFLICT.md)
 
 ## Unit working flow
 

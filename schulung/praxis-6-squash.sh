@@ -1,0 +1,32 @@
+#!/bin/bash
+echo "# Create 2 comits and squash them to one."
+echo "git checkout -b tmp/squash-branch"
+echo "touch afile.txt"
+echo "git add afile.txt"
+echo "git commit -m\"Add afile\" afile.txt"
+echo
+echo "touch another.file"
+echo "git add another.file"
+echo "git commit -m\"Add another file\" another.file"
+echo
+echo "git log      # 2 commits in history"
+echo "git rebase -i trunk"
+echo "| pick c823921 Added 2.0 release changes"
+echo "| s/squash 2427e99 Add afile"
+echo "| s/squash 4970e26 Add another file"
+echo "| # Rebase 9b72113..4970e26 onto 9b72113 (3 commands)"
+echo "| #"
+echo "| # Commands:"
+echo "| # p, pick = use commit"
+echo "| # r, reword = use commit, but edit the commit message"
+echo "| # e, edit = use commit, but stop for amending"
+echo "| # s, squash = use commit, but meld into previous commit"
+echo "| # f, fixup = like "squash", but discard this commit's log message"
+echo "| # x, exec = run command (the rest of the line) using shell"
+echo "| # d, drop = remove commit"
+echo "git log      # 1 commit in history"
+echo
+echo "# Amend a small change"
+echo "forget to commit" > this.file
+echo "git add this.file"
+echo "git commit --amend"

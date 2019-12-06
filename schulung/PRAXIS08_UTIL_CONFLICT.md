@@ -2,6 +2,8 @@
 
 Resolve conflicts while merging or rebasing with mergetool.
 
+Scripts: `praxis-8-setup.sh`, `praxis-8.sh`
+
 ## Command list
 
 ```

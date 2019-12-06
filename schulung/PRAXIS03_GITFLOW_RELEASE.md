@@ -2,6 +2,8 @@
 
 Make a release like gitflow declare.
 
+Scripts: `praxis-3.sh`
+
 ## Release command list
 
 ```

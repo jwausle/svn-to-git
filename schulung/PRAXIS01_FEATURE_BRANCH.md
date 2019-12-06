@@ -2,6 +2,8 @@
 
 Init a local repository, do a first commit and configure a upstream origin to push Your first commit.
 
+Scripts: `praxis-1.sh`
+
 ## Paxis 1 commands
 
 ```

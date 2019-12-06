@@ -1,5 +1,7 @@
 # Praxis 4 hotfix
 
+Scripts: `praxis-4-hotfix.sh`, `praxis-4-bugfix.sh`
+
 Make a hotfix like gitflow declare.
 
 - [Hotfix command list develop/hotfix](#hotfix1)

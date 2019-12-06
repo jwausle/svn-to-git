@@ -1,7 +1,7 @@
 job1:
-  tags: 
+  tags:
    - shell
-  script: 
+  script:
    - env
    - echo "PATH=$PATH"
    - javac -version
