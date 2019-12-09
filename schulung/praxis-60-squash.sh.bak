@@ -10,7 +10,7 @@ echo "git add another.file"
 echo "git commit -m\"Add another file\" another.file"
 echo
 echo "git log      # 2 commits in history"
-echo "git rebase -i develop"
+echo "git rebase -i trunk"
 echo "| pick c823921 Added 2.0 release changes"
 echo "| s/squash 2427e99 Add afile"
 echo "| s/squash 4970e26 Add another file"

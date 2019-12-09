@@ -4,7 +4,7 @@ echo
 echo "git config pull.rebase true # ensure that default pull merge strategy is rebase"
 echo
 # Develop a feature
-echo "git checkout develop"
+echo "git checkout trunk"
 echo "git pull         # => be always in sync with origin"
 echo "git checkout -b feature/\${YOUR_FEATURE_NAME}"
 echo "touch gitflow-feature-change.txt"
